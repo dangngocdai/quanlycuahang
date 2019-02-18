@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\QuanLyChuoiCH.View\QuanLyChuoiCH.DAL\obj\Debug\QuanLyChuoiCH.DAL.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\QuanLyChuoiCH.View\QuanLyChuoiCH.DAL\obj\Debug\QuanLyChuoiCH.DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QuanLyChuoiCH.View\QuanLyChuoiCH.DAL\bin\Debug\QuanLyChuoiCH.DAL.dll
+C:\Users\admin\source\repos\QuanLyChuoiCH.View\QuanLyChuoiCH.DAL\bin\Debug\QuanLyChuoiCH.DAL.pdb
+C:\Users\admin\source\repos\QuanLyChuoiCH.View\QuanLyChuoiCH.DAL\obj\Debug\QuanLyChuoiCH.DAL.dll
+C:\Users\admin\source\repos\QuanLyChuoiCH.View\QuanLyChuoiCH.DAL\obj\Debug\QuanLyChuoiCH.DAL.pdb

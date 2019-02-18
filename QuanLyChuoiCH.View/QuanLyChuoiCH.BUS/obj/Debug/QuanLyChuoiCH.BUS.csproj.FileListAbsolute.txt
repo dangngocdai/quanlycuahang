@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\QuanLyChuoiCH.View\QuanLyChuoiCH.BUS\obj\Debug\QuanLyChuoiCH.BUS.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QuanLyChuoiCH.View\QuanLyChuoiCH.BUS\bin\Debug\QuanLyChuoiCH.BUS.dll
+C:\Users\admin\source\repos\QuanLyChuoiCH.View\QuanLyChuoiCH.BUS\bin\Debug\QuanLyChuoiCH.BUS.pdb
+C:\Users\admin\source\repos\QuanLyChuoiCH.View\QuanLyChuoiCH.BUS\bin\Debug\QuanLyChuoiCH.DAL.dll
+C:\Users\admin\source\repos\QuanLyChuoiCH.View\QuanLyChuoiCH.BUS\bin\Debug\QuanLyChuoiCH.DAL.pdb
+C:\Users\admin\source\repos\QuanLyChuoiCH.View\QuanLyChuoiCH.BUS\obj\Debug\QuanLyChuoiCH.BUS.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\QuanLyChuoiCH.View\QuanLyChuoiCH.BUS\obj\Debug\QuanLyChuoiCH.BUS.csproj.CopyComplete
+C:\Users\admin\source\repos\QuanLyChuoiCH.View\QuanLyChuoiCH.BUS\obj\Debug\QuanLyChuoiCH.BUS.dll
+C:\Users\admin\source\repos\QuanLyChuoiCH.View\QuanLyChuoiCH.BUS\obj\Debug\QuanLyChuoiCH.BUS.pdb
